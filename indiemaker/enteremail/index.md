@@ -1,3 +1,22 @@
+---
+head:
+  - - meta
+    - property: 'og:image'
+      content: /%E5%85%8D%E8%B4%B9%E4%BC%81%E4%B8%9A%E9%82%AE%E7%AE%B1.001.png
+  - - meta
+    - property: 'twitter:image'
+      content: /%E5%85%8D%E8%B4%B9%E4%BC%81%E4%B8%9A%E9%82%AE%E7%AE%B1.001.png
+  - - meta
+    - property: 'twitter:card'
+      content: summary_large_image
+  - - meta
+    - property: 'twitter:site'
+      content: "@s1ntone"
+  - - meta
+    - property: 'twitter:creator'
+      content: "@s1ntone"
+---
+
 # 域名搁着别浪费，Cloudflare + Gmail + Resend 十分钟轻松拥有免费的企业邮箱
 
 现在的独立开发者们基本上是人手 N 个域名了，不过企业邮箱可能不是人人都有。
