@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Blog",
+  title: "",
   description: "Sintone是一个专注于macOS/iOS开发的博客网站，提供独立开发技术、经验以及一人公司旅程收获的记录。我们主要开发小工具，并为海外用户提供app软件服务。通过Sintone，您可以获取到关于macOS/iOS开发的专业知识、技术分享和实用工具。我们致力于为海外用户提供高质量的软件服务。欢迎访问Sintone，了解更多关于macOS/iOS开发和海外软件服务的信息。",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
