@@ -15,6 +15,9 @@ head:
   - - meta
     - property: 'twitter:creator'
       content: "@s1ntone"
+  - - meta
+    - property: 'twitter:title'
+      content: "域名搁着别浪费，Cloudflare + Gmail + Resend 十分钟轻松拥有免费的企业邮箱"
 ---
 
 # 域名搁着别浪费，Cloudflare + Gmail + Resend 十分钟轻松拥有免费的企业邮箱
